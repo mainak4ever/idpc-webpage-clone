@@ -10,6 +10,7 @@ a {
   height: 100vh;
   /* background-image: url("./Assets/background-image.png"); */
   position: relative;
+  overflow: hidden;
 }
 .background {
   position: absolute;
